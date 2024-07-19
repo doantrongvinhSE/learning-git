@@ -1,2 +1,3 @@
-#Cần lưu ý
-Tôi là lưu newbie thôi 
+# Learning Git 💻
+
+This repo was used to learn git for newbie.
