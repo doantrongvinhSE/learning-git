@@ -3,3 +3,8 @@ function doSomthing() {
     var b = 2;
     console.log(a + b);
 }
+
+
+function newFunction() {
+    console.log("Something...");
+}
