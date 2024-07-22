@@ -8,3 +8,8 @@ function doSomthing() {
 function newFunction() {
     console.log("Something...");
 }
+
+let a;
+function check(a) {
+    console.log(a);
+}
