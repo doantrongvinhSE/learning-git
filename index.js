@@ -12,4 +12,8 @@ function newFunction() {
 var a = 1;
 function check(a) {
     console.log(a * a);
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 3774ef6 (change how to check)
