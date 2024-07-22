@@ -9,7 +9,7 @@ function newFunction() {
     console.log("Something...");
 }
 
-let a;
+var a = 1;
 function check(a) {
-    console.log(a);
+    console.log(a + 1);
 }
