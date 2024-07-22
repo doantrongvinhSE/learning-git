@@ -11,5 +11,5 @@ function newFunction() {
 
 var a = 1;
 function check(a) {
-    console.log(a + 1);
+    console.log(a * a);
 }
